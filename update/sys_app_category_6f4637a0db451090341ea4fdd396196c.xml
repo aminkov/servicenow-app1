@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app_category">
+    <sys_app_category action="INSERT_OR_UPDATE">
+        <default_order/>
+        <name>AMapp</name>
+        <style/>
+        <sys_class_name>sys_app_category</sys_class_name>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-25 07:25:42</sys_created_on>
+        <sys_id>6f4637a0db451090341ea4fdd396196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AMapp</sys_name>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+        <sys_update_name>sys_app_category_6f4637a0db451090341ea4fdd396196c</sys_update_name>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-25 07:25:42</sys_updated_on>
+    </sys_app_category>
+</record_update>
