@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>AM Waiters</name>
+        <order>100</order>
+        <roles>x_nuvo_amapp.am_waiters_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-25 08:55:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3cea4c3cdb851090341ea4fdd3961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AM Waiters</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+        <sys_update_name>sys_app_application_3cea4c3cdb851090341ea4fdd3961907</sys_update_name>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-25 08:55:24</sys_updated_on>
+        <title>AM Waiters</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AMapp">d14feb64db051090341ea4fdd39619dc</application>
+        <file_path/>
+        <instance_id>f31c2907dbfe4c50b847ac44d496197f</instance_id>
+        <instance_name>ven03518</instance_name>
+        <name>sys_app_application_3cea4c3cdb851090341ea4fdd3961907</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>AM Waiters</name><order>100</order><roles>x_nuvo_amapp.am_waiters_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by><sys_created_on>2020-05-25 08:55:24</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3cea4c3cdb851090341ea4fdd3961907</sys_id><sys_mod_count>0</sys_mod_count><sys_name>AM Waiters</sys_name><sys_overrides/><sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package><sys_policy/><sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope><sys_update_name>sys_app_application_3cea4c3cdb851090341ea4fdd3961907</sys_update_name><sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by><sys_updated_on>2020-05-25 08:55:24</sys_updated_on><title>AM Waiters</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1563027970</payload_hash>
+        <record_name>AM Waiters</record_name>
+        <reverted_from/>
+        <source>47d27368db051090341ea4fdd39619c8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-25 08:55:24</sys_created_on>
+        <sys_id>fcea4c3cdb851090341ea4fdd3961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1724b0b331c0000001</sys_recorded_at>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-25 08:55:24</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>38ea4c3cab85109099478659fd058609</update_guid>
+        <update_guid_history>38ea4c3cab85109099478659fd058609:1563027970</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="AM Waiters">66219c34dbc51090341ea4fdd396194e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-25 09:22:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>4c2a4ede937b49dca7370f80c4654e90</sys_id>
+        <sys_metadata>3cea4c3cdb851090341ea4fdd3961907</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AM Waiters</sys_name>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+        <sys_scope_delete display_value="">07f45bd841ed40d081d0bfa111241b90</sys_scope_delete>
+        <sys_update_name>sys_app_application_3cea4c3cdb851090341ea4fdd3961907</sys_update_name>
+        <sys_update_version display_value="sys_app_application_3cea4c3cdb851090341ea4fdd3961907">fcea4c3cdb851090341ea4fdd3961909</sys_update_version>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-25 09:22:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

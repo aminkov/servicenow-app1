@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>catalog_am_menu_catalog</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-25 10:16:31</sys_created_on>
+        <sys_id>817d50b4db091090341ea4fdd39619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AM Menu Catalog View</sys_name>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+        <sys_update_name>sys_ui_view_817d50b4db091090341ea4fdd39619ca</sys_update_name>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-25 10:16:31</sys_updated_on>
+        <title>AM Menu Catalog View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="meals_and_drinks" table="x_nuvo_amapp_orders">
+        <active>true</active>
+        <array>false</array>
+        <array_denormalized>false</array_denormalized>
+        <attributes/>
+        <audit>false</audit>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+        <choice>3</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>Meals and Drinks</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>true</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>meals_and_drinks</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="Choice">choice</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>20</max_length>
+        <name>x_nuvo_amapp_orders</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference display_value="" name="x_nuvo_amapp_active_menu">x_nuvo_amapp_active_menu</reference>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <sizeclass/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-25 09:30:23</sys_created_on>
+        <sys_id>75b2d0f4dbc51090341ea4fdd396191d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Meals and Drinks</sys_name>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+        <sys_update_name>sys_dictionary_x_nuvo_amapp_orders_meals_and_drinks</sys_update_name>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-25 09:31:57</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AMapp">d14feb64db051090341ea4fdd39619dc</application>
+        <file_path/>
+        <instance_id>f31c2907dbfe4c50b847ac44d496197f</instance_id>
+        <instance_name>ven03518</instance_name>
+        <name>sys_dictionary_x_nuvo_amapp_orders_meals_and_drinks</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="meals_and_drinks" table="x_nuvo_amapp_orders"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice&gt;3&lt;/choice&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Meals and Drinks&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;true&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;meals_and_drinks&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Choice"&gt;choice&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;20&lt;/max_length&gt;&lt;name&gt;x_nuvo_amapp_orders&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference display_value="" name="x_nuvo_amapp_active_menu"&gt;x_nuvo_amapp_active_menu&lt;/reference&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;Angel.Minkov@nuvolo.com&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-25 09:30:23&lt;/sys_created_on&gt;&lt;sys_id&gt;75b2d0f4dbc51090341ea4fdd396191d&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Meals and Drinks&lt;/sys_name&gt;&lt;sys_package display_value="AMapp" source="x_nuvo_amapp"&gt;d14feb64db051090341ea4fdd39619dc&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="AMapp"&gt;d14feb64db051090341ea4fdd39619dc&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_nuvo_amapp_orders_meals_and_drinks&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;Angel.Minkov@nuvolo.com&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-25 09:31:57&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1907052415</payload_hash>
+        <record_name>AM Orders.Meals and Drinks</record_name>
+        <reverted_from/>
+        <source>47d27368db051090341ea4fdd39619c8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-25 09:31:57</sys_created_on>
+        <sys_id>dc43d438dbc51090341ea4fdd3961934</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1724b2ca9fc0000001</sys_recorded_at>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-25 09:31:57</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>5843d43857c5109050d9f409956b7c34</update_guid>
+        <update_guid_history>5843d43857c5109050d9f409956b7c34:1907052415,5de2d8f482c51090af253d653763db18:-522729659</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-25 09:35:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>8ee221512e074ac0bee7ae4a4f2e6400</sys_id>
+        <sys_metadata>75b2d0f4dbc51090341ea4fdd396191d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Meals and Drinks</sys_name>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_parent display_value="AM Orders">ad153facdb051090341ea4fdd3961978</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+        <sys_scope_delete display_value="">07f45bd841ed40d081d0bfa111241b90</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_nuvo_amapp_orders_meals_and_drinks</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_nuvo_amapp_orders_meals_and_drinks">dc43d438dbc51090341ea4fdd3961934</sys_update_version>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-25 09:35:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

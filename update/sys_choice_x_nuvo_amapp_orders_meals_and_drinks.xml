@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="meals_and_drinks" table="x_nuvo_amapp_orders" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>meals_and_drinks</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- New choice --</label>
+            <language>en</language>
+            <name>x_nuvo_amapp_orders</name>
+            <sequence/>
+            <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+            <sys_created_on>2020-05-25 09:30:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3be298f4dbc51090341ea4fdd3961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+            <sys_updated_on>2020-05-25 09:30:34</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>meals_and_drinks</element>
+            <name>x_nuvo_amapp_orders</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+            <sys_created_on>2020-05-25 09:30:34</sys_created_on>
+            <sys_id>73e298f4dbc51090341ea4fdd3961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>meals_and_drinks</sys_name>
+            <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+            <sys_update_name>sys_choice_x_nuvo_amapp_orders_meals_and_drinks</sys_update_name>
+            <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+            <sys_updated_on>2020-05-25 09:30:34</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

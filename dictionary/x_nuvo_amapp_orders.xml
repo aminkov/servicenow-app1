@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Orders" max_length="40" name="x_nuvo_amapp_orders" type="collection">
+    <element attributes="hasLabels=true,live_feed=true" label="AM Orders" max_length="40" name="x_nuvo_amapp_orders" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="start_locked=false" choice="3" display="true" label="Order Details" mandatory="true" max_length="1000" name="order_details" reference="x_nuvo_amapp_active_menu" type="glide_list">
+            <choice/>
+        </element>
+        <element choice="3" label="Responsible Waiter" max_length="32" name="responsible_waiter" reference="x_nuvo_amapp_am_waiters" type="reference">
+            <choice/>
+        </element>
+        <element choice="3" default="New" dependent="status1" dependent_on_field="status1" label="Status" mandatory="true" max_length="32" name="status1" reference="x_nuvo_amapp_am_order_statuses" type="reference" use_dependent_field="true">
+            <choice/>
+        </element>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="status1"/>
+        </index>
+        <index name="index2">
+            <element name="responsible_waiter"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
     </element>
 </database>

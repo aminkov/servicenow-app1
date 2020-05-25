@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_nuvo_amapp_am_waiters">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_nuvo_amapp_am_waiters</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+            <sys_created_on>2020-05-25 08:55:26</sys_created_on>
+            <sys_id>8dea4c3cdb851090341ea4fdd396198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+            <sys_update_name>sys_documentation_x_nuvo_amapp_am_waiters_number_en</sys_update_name>
+            <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+            <sys_updated_on>2020-05-25 08:55:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
