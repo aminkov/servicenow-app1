@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_nuvo_amapp.user" name="x_nuvo_amapp.user">ac6fe7e0db051090341ea4fdd396192d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-25 06:55:14</sys_created_on>
+        <sys_id>a46fe7e0db051090341ea4fdd3961931</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ac6fe7e0db051090341ea4fdd396192d</sys_name>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a46fe7e0db051090341ea4fdd3961931</sys_update_name>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-25 06:55:14</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
