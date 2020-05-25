@@ -3,15 +3,15 @@
         <active>true</active>
         <hint/>
         <name>orders</name>
-        <order/>
-        <roles>x_nuvo_amapp.orders_user</roles>
+        <order>100</order>
+        <roles>x_nuvo_amapp.orders_user,admin,activity_admin,activity_creator,agent_admin</roles>
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
         <sys_created_on>2020-05-25 07:23:12</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>82c57becdb051090341ea4fdd39619f5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>orders</sys_name>
         <sys_overrides/>
         <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
@@ -19,6 +19,6 @@
         <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
         <sys_update_name>sys_ui_application_82c57becdb051090341ea4fdd39619f5</sys_update_name>
         <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
-        <sys_updated_on>2020-05-25 07:23:12</sys_updated_on>
+        <sys_updated_on>2020-05-25 07:32:48</sys_updated_on>
     </sys_ui_application>
 </record_update>
