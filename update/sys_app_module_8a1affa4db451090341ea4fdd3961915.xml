@@ -6,12 +6,12 @@
         <content_page/>
         <device_type/>
         <filter/>
-        <hint/>
+        <hint>Add new order from customer</hint>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>NEW</link_type>
         <map_page/>
-        <mobile_title>Orders</mobile_title>
+        <mobile_title>Submit an order</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_nuvo_amapp_orders</name>
         <order/>
@@ -21,23 +21,23 @@
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
-        <sys_created_on>2020-05-25 07:23:12</sys_created_on>
+        <sys_created_on>2020-05-25 07:43:52</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>86c57becdb051090341ea4fdd39619f1</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>OrdersAM</sys_name>
+        <sys_id>8a1affa4db451090341ea4fdd3961915</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Submit order</sys_name>
         <sys_overrides/>
         <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
         <sys_policy/>
         <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
-        <sys_update_name>sys_app_module_86c57becdb051090341ea4fdd39619f1</sys_update_name>
+        <sys_update_name>sys_app_module_8a1affa4db451090341ea4fdd3961915</sys_update_name>
         <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
-        <sys_updated_on>2020-05-25 07:38:47</sys_updated_on>
+        <sys_updated_on>2020-05-25 07:44:48</sys_updated_on>
         <timeline_page/>
-        <title>OrdersAM</title>
+        <title>Submit order</title>
         <uncancelable>false</uncancelable>
         <view_name/>
-        <window_name/>
+        <window_name>Create new order...</window_name>
     </sys_app_module>
 </record_update>
