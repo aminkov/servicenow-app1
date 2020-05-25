@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="am_comments" label="Comments" language="en" table="x_nuvo_amapp_orders">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>am_comments</element>
+            <help/>
+            <hint/>
+            <label>Comments</label>
+            <language>en</language>
+            <name>x_nuvo_amapp_orders</name>
+            <plural>Comments</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+            <sys_created_on>2020-05-25 12:03:55</sys_created_on>
+            <sys_id>8a06b4f0db095c10e2d96ebcd396198a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Comments</sys_name>
+            <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+            <sys_update_name>sys_documentation_x_nuvo_amapp_orders_am_comments_en</sys_update_name>
+            <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+            <sys_updated_on>2020-05-25 12:07:28</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
