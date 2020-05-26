@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE">
+        <dashboard display_value="AM App Dashboard">6f8b924ddbc11010341ea4fdd396192f</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>1</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-26 14:06:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df9bd24ddbc11010341ea4fdd396193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6f8b924ddbc11010341ea4fdd396192f</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_df9bd24ddbc11010341ea4fdd396193e</sys_update_name>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-26 14:06:12</sys_updated_on>
+        <tab display_value="AM App Dashboard - New Tab">179bd24ddbc11010341ea4fdd396193c</tab>
+    </pa_m2m_dashboard_tabs>
+</record_update>

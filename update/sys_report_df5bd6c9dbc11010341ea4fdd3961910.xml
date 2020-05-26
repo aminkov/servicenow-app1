@@ -5,7 +5,7 @@
         <allow_data_label_overlap>false</allow_data_label_overlap>
         <axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color>
         <axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color>
-        <bar_unstack>false</bar_unstack>
+        <bar_unstack>true</bar_unstack>
         <chart_background_color/>
         <chart_border_color/>
         <chart_border_radius>0</chart_border_radius>
@@ -32,25 +32,25 @@
         <created_by_user display_value="Angel Minkov">0c25f82fdbb0d850341ea4fdd39619cf</created_by_user>
         <custom_chart_size>false</custom_chart_size>
         <custom_chart_title_position>false</custom_chart_title_position>
-        <custom_config/>
+        <custom_config>{"transforms":[{"transform":{"transform":"Reference","name":"chart-subjects"}}]}</custom_config>
         <decimal_precision>2</decimal_precision>
         <description/>
         <direction>minimize</direction>
         <display_column_lines>false</display_column_lines>
-        <display_grid>false</display_grid>
+        <display_grid>true</display_grid>
         <display_row_lines>false</display_row_lines>
         <donut_width_percent>50</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field>total_price</field>
-        <field_list>number,opened_at,short_description,caller_id,priority,state,category,assignment_group,assigned_to,sys_updated_on,sys_updated_by</field_list>
+        <field>responsible_waiter</field>
+        <field_list>number,status1,responsible_waiter,total_price,order_details,am_comments,sys_mod_count</field_list>
         <filter/>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
         <gauge_autoscale>true</gauge_autoscale>
         <group/>
         <import_table/>
-        <interval>year</interval>
+        <interval>month</interval>
         <is_published>false</is_published>
         <is_real_time>false</is_real_time>
         <is_scheduled>false</is_scheduled>
@@ -84,10 +84,10 @@
         <series_name_text/>
         <set_color>color_palette</set_color>
         <show_chart_border>false</show_chart_border>
-        <show_chart_data_label>false</show_chart_data_label>
+        <show_chart_data_label>true</show_chart_data_label>
         <show_chart_title>report</show_chart_title>
         <show_chart_total>false</show_chart_total>
-        <show_data_label_position_middle>false</show_data_label_position_middle>
+        <show_data_label_position_middle>true</show_data_label_position_middle>
         <show_empty>false</show_empty>
         <show_geographical_label>false</show_geographical_label>
         <show_legend>true</show_legend>
@@ -100,23 +100,23 @@
         <sumfield/>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
-        <sys_created_on>2020-05-26 13:39:44</sys_created_on>
-        <sys_id>ab855685dbc11010341ea4fdd3961960</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Pie on AM Orders table by total_price created by Angel Minkov: 26/05/2020 08:39:28</sys_name>
+        <sys_created_on>2020-05-26 14:05:07</sys_created_on>
+        <sys_id>df5bd6c9dbc11010341ea4fdd3961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sales By Dish</sys_name>
         <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
         <sys_policy/>
         <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
-        <sys_update_name>sys_report_ab855685dbc11010341ea4fdd3961960</sys_update_name>
+        <sys_update_name>sys_report_df5bd6c9dbc11010341ea4fdd3961910</sys_update_name>
         <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
-        <sys_updated_on>2020-05-26 14:50:25</sys_updated_on>
+        <sys_updated_on>2020-05-26 14:05:07</sys_updated_on>
         <table>x_nuvo_amapp_orders</table>
-        <title>Pie on AM Orders table by total_price created by Angel Minkov: 26/05/2020 08:39:28</title>
+        <title>Sales By Dish</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
-        <trend_field/>
-        <type>pie</type>
+        <trend_field>sys_created_on</trend_field>
+        <type>line_bar</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>

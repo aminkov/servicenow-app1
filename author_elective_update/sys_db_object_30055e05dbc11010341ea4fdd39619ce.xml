@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Imp Tmpl X Nuvo Amapp Orders</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>u_imp_tmpl_x_nuvo_amapp_orders</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">2ed723b5db030010f320e3364896197f</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-26 13:37:22</sys_created_on>
+        <sys_id>30055e05dbc11010341ea4fdd39619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X Nuvo Amapp Orders</sys_name>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+        <sys_update_name>sys_db_object_30055e05dbc11010341ea4fdd39619ce</sys_update_name>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-26 13:37:22</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AMapp">d14feb64db051090341ea4fdd39619dc</application>
+        <file_path/>
+        <instance_id>f31c2907dbfe4c50b847ac44d496197f</instance_id>
+        <instance_name>ven03518</instance_name>
+        <name>sys_db_object_30055e05dbc11010341ea4fdd39619ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Imp Tmpl X Nuvo Amapp Orders</label><live_feed_enabled>false</live_feed_enabled><name>u_imp_tmpl_x_nuvo_amapp_orders</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">2ed723b5db030010f320e3364896197f</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by><sys_created_on>2020-05-26 13:37:22</sys_created_on><sys_id>30055e05dbc11010341ea4fdd39619ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Imp Tmpl X Nuvo Amapp Orders</sys_name><sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package><sys_policy/><sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope><sys_update_name>sys_db_object_30055e05dbc11010341ea4fdd39619ce</sys_update_name><sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by><sys_updated_on>2020-05-26 13:37:22</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>246017136</payload_hash>
+        <record_name>Imp Tmpl X Nuvo Amapp Orders</record_name>
+        <reverted_from/>
+        <source>aab04289db411010341ea4fdd3961950</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-26 13:37:22</sys_created_on>
+        <sys_id>c5055e05dbc11010341ea4fdd39619f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1725133b6270000001</sys_recorded_at>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-26 13:37:22</sys_updated_on>
+        <type>Table</type>
+        <update_guid>41055e05eac110102b5a288a432cccf4</update_guid>
+        <update_guid_history>41055e05eac110102b5a288a432cccf4:246017136</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-26 14:08:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>314ddd63159142e1937168f92c9b8d81</sys_id>
+        <sys_metadata>30055e05dbc11010341ea4fdd39619ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Imp Tmpl X Nuvo Amapp Orders</sys_name>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+        <sys_scope_delete display_value="">07f45bd841ed40d081d0bfa111241b90</sys_scope_delete>
+        <sys_update_name>sys_db_object_30055e05dbc11010341ea4fdd39619ce</sys_update_name>
+        <sys_update_version display_value="sys_db_object_30055e05dbc11010341ea4fdd39619ce">c5055e05dbc11010341ea4fdd39619f4</sys_update_version>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-26 14:08:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
