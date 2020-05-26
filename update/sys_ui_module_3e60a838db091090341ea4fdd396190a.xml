@@ -2,8 +2,9 @@
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
         <application display_value="AM Orders">6e5f1438db091090341ea4fdd3961902</application>
-        <filter table="x_nuvo_amapp_orders">status1!=ae250874db851090341ea4fdd39619c0^status1!=44250474db851090341ea4fdd396191b^EQ<item display_table="x_nuvo_amapp_am_order_statuses" display_value="Cancelled" endquery="false" field="status1" goto="false" newquery="false" operator="!=" or="false" value="ae250874db851090341ea4fdd39619c0"/>
-            <item display_table="x_nuvo_amapp_am_order_statuses" display_value="Delivered" endquery="false" field="status1" goto="false" newquery="false" operator="!=" or="false" value="44250474db851090341ea4fdd396191b"/>
+        <filter table="x_nuvo_amapp_orders">status1!=f0820e4ddb411010341ea4fdd396192f^status1!=f682ce4ddb411010341ea4fdd396199f^status1!=8072464ddb411010341ea4fdd3961919^EQ<item display_table="x_nuvo_amapp_am_order_statuses" display_value="Completed" endquery="false" field="status1" goto="false" newquery="false" operator="!=" or="false" value="f0820e4ddb411010341ea4fdd396192f"/>
+            <item display_table="x_nuvo_amapp_am_order_statuses" display_value="Cancelled" endquery="false" field="status1" goto="false" newquery="false" operator="!=" or="false" value="f682ce4ddb411010341ea4fdd396199f"/>
+            <item display_table="x_nuvo_amapp_am_order_statuses" display_value="Delivered" endquery="false" field="status1" goto="false" newquery="false" operator="!=" or="false" value="8072464ddb411010341ea4fdd3961919"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <name>AM Active Orders</name>
@@ -17,14 +18,14 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>3e60a838db091090341ea4fdd396190a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>AM Active Orders</sys_name>
         <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
         <sys_policy/>
         <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
         <sys_update_name>sys_ui_module_3e60a838db091090341ea4fdd396190a</sys_update_name>
         <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
-        <sys_updated_on>2020-05-25 10:30:44</sys_updated_on>
+        <sys_updated_on>2020-05-26 12:27:04</sys_updated_on>
         <table>x_nuvo_amapp_orders</table>
         <uncancelable>false</uncancelable>
         <view_name/>

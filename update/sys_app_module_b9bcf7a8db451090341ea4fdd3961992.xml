@@ -5,7 +5,7 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter table="x_nuvo_amapp_orders">status1=44250474db851090341ea4fdd396191b^EQ<item display_table="x_nuvo_amapp_am_order_statuses" display_value="Delivered" endquery="false" field="status1" goto="false" newquery="false" operator="=" or="false" value="44250474db851090341ea4fdd396191b"/>
+        <filter table="x_nuvo_amapp_orders">status1=44250474db851090341ea4fdd396191b^EQ<item endquery="false" field="status1" goto="false" newquery="false" operator="=" or="false" value="44250474db851090341ea4fdd396191b"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint>All completed orders</hint>

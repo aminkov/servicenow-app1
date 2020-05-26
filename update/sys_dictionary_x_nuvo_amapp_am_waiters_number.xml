@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
         <sys_created_on>2020-05-25 08:55:26</sys_created_on>
-        <sys_id>8dea4c3cdb851090341ea4fdd3961986</sys_id>
+        <sys_id>2ea04a89db411010341ea4fdd39619c9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Number</sys_name>
         <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
         <sys_update_name>sys_dictionary_x_nuvo_amapp_am_waiters_number</sys_update_name>
         <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
-        <sys_updated_on>2020-05-25 08:55:26</sys_updated_on>
+        <sys_updated_on>2020-05-26 12:08:32</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

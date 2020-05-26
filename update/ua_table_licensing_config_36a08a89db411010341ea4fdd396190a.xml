@@ -12,13 +12,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
         <sys_created_on>2020-05-25 09:07:31</sys_created_on>
-        <sys_id>16ad8430dbc51090341ea4fdd3961926</sys_id>
+        <sys_id>36a08a89db411010341ea4fdd396190a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_nuvo_amapp_active_menu</sys_name>
         <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
         <sys_policy/>
         <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
-        <sys_update_name>ua_table_licensing_config_16ad8430dbc51090341ea4fdd3961926</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_36a08a89db411010341ea4fdd396190a</sys_update_name>
         <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
         <sys_updated_on>2020-05-25 09:07:31</sys_updated_on>
     </ua_table_licensing_config>
