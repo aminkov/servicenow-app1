@@ -14,11 +14,25 @@
    if (isLoading || newValue === '') {
       return;
    }
+	
+var tot_price = g_form.getSectionNames('total_price');	
+	
+	
+var id = g_form.getValue('order_details');
 
-var a = 'ldfiugd;da;locm;d  ';
-var string = 'i';	
-i = g_form.getValue('order_details');
-g_form.setValue('am_comments', i); 
+
+// g_form.setValue('am_comments', id); 
+// $j.get('https://ven03518.service-now.com/api/now/table/x_nuvo_amapp_active_menu?sysparm_query=sys_idIN'+id, executeWhenReady);
+
+// var rec = new GlideRecord('x_nuvo_amapp_active_menu');
+// rec.addQuery('sys_id', '57de40b0dbc51090341ea4fdd3961942');
+// rec.query(); 
+// while(rec.next()) { 
+// 	var price = rec.price; 
+// 	total_price = total_price + price;
+// }
+g_form.setValue('am_comments', id); 
+	
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
@@ -26,15 +40,15 @@ g_form.setValue('am_comments', i);
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>bca1bc7cdbc55c10e2d96ebcd3961918</sys_id>
-        <sys_mod_count>19</sys_mod_count>
+        <sys_mod_count>48</sys_mod_count>
         <sys_name>AM Sum Order List</sys_name>
         <sys_overrides/>
         <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
         <sys_policy/>
         <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
         <sys_update_name>sys_script_client_bca1bc7cdbc55c10e2d96ebcd3961918</sys_update_name>
-        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
-        <sys_updated_on>2020-05-25 13:20:01</sys_updated_on>
+        <sys_updated_by>angel.minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-26 09:39:48</sys_updated_on>
         <table>x_nuvo_amapp_orders</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
