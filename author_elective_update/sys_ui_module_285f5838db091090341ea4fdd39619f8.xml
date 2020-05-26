@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="AM Orders">6e5f1438db091090341ea4fdd3961902</application>
+        <filter table="x_nuvo_amapp_orders">status1=f0820e4ddb411010341ea4fdd396192f^status1=8072464ddb411010341ea4fdd3961919^EQ<item display_table="x_nuvo_amapp_am_order_statuses" display_value="Completed" endquery="false" field="status1" goto="false" newquery="false" operator="=" or="false" value="f0820e4ddb411010341ea4fdd396192f"/>
+            <item display_table="x_nuvo_amapp_am_order_statuses" display_value="Delivered" endquery="false" field="status1" goto="false" newquery="false" operator="=" or="false" value="8072464ddb411010341ea4fdd3961919"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <name>AM Completed Orders</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles/>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-25 10:24:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>285f5838db091090341ea4fdd39619f8</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>AM Completed Orders</sys_name>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+        <sys_update_name>sys_ui_module_285f5838db091090341ea4fdd39619f8</sys_update_name>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-26 12:35:27</sys_updated_on>
+        <table>x_nuvo_amapp_orders</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="AMapp">d14feb64db051090341ea4fdd39619dc</application>
+        <file_path/>
+        <instance_id>f31c2907dbfe4c50b847ac44d496197f</instance_id>
+        <instance_name>ven03518</instance_name>
+        <name>sys_ui_module_285f5838db091090341ea4fdd39619f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="AM Orders">6e5f1438db091090341ea4fdd3961902</application><filter table="x_nuvo_amapp_orders">status1=f0820e4ddb411010341ea4fdd396192f^status1=8072464ddb411010341ea4fdd3961919^EQ<item display_table="x_nuvo_amapp_am_order_statuses" display_value="Completed" endquery="false" field="status1" goto="false" newquery="false" operator="=" or="false" value="f0820e4ddb411010341ea4fdd396192f"/><item display_table="x_nuvo_amapp_am_order_statuses" display_value="Delivered" endquery="false" field="status1" goto="false" newquery="false" operator="=" or="false" value="8072464ddb411010341ea4fdd3961919"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><name>AM Completed Orders</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles/><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by><sys_created_on>2020-05-25 10:24:49</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>285f5838db091090341ea4fdd39619f8</sys_id><sys_mod_count>3</sys_mod_count><sys_name>AM Completed Orders</sys_name><sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package><sys_policy/><sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope><sys_update_name>sys_ui_module_285f5838db091090341ea4fdd39619f8</sys_update_name><sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by><sys_updated_on>2020-05-26 12:35:27</sys_updated_on><table>x_nuvo_amapp_orders</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1630546336</payload_hash>
+        <record_name>AM Completed Orders</record_name>
+        <reverted_from/>
+        <source>aab04289db411010341ea4fdd3961950</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-26 12:35:27</sys_created_on>
+        <sys_id>79d6c205db811010341ea4fdd3961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17250fb04cf0000001</sys_recorded_at>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-26 12:35:27</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b1d6c2059b8110108b9ab91616345a66</update_guid>
+        <update_guid_history>b1d6c2059b8110108b9ab91616345a66:1630546336,2da6cec14d81101050a6ddce2eb6a92b:-1370333478,9ff30e0118811010fb8d1a8c1bb24a7d:1630546336,64b04e89c8411010b0182ad6e90b2707:0,87904689d9411010610b1e65a2c3abbd:1607346691,b0008609a94110105987622683997f85:0,0fdf7dc591411010067b41f3c27f4541:756548493,ebaeb18510411010bd022b8fb202ab3c:-112888444,aa5f9838500910901c332e9fd4da88a1:-389365013</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-26 12:37:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>0c2af9e194384492ab07b3171cce84c4</sys_id>
+        <sys_metadata>285f5838db091090341ea4fdd39619f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AM Completed Orders</sys_name>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+        <sys_scope_delete display_value="">07f45bd841ed40d081d0bfa111241b90</sys_scope_delete>
+        <sys_update_name>sys_ui_module_285f5838db091090341ea4fdd39619f8</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_285f5838db091090341ea4fdd39619f8">79d6c205db811010341ea4fdd3961966</sys_update_version>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-26 12:37:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
