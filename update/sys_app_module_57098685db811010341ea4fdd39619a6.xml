@@ -5,8 +5,9 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter table="x_nuvo_amapp_orders">status1!=3952ca4ddb411010341ea4fdd39619e2^status1!=40628a0ddb411010341ea4fdd396196c^EQ<item display_table="x_nuvo_amapp_am_order_statuses" display_value="New" endquery="false" field="status1" goto="false" newquery="false" operator="!=" or="false" value="3952ca4ddb411010341ea4fdd39619e2"/>
+        <filter table="x_nuvo_amapp_orders">status1!=3952ca4ddb411010341ea4fdd39619e2^status1!=40628a0ddb411010341ea4fdd396196c^status1!=acc6dac5dbc11010341ea4fdd396197e^EQ<item display_table="x_nuvo_amapp_am_order_statuses" display_value="New" endquery="false" field="status1" goto="false" newquery="false" operator="!=" or="false" value="3952ca4ddb411010341ea4fdd39619e2"/>
             <item display_table="x_nuvo_amapp_am_order_statuses" display_value="In  Prrogress..." endquery="false" field="status1" goto="false" newquery="false" operator="!=" or="false" value="40628a0ddb411010341ea4fdd396196c"/>
+            <item display_table="x_nuvo_amapp_am_order_statuses" display_value="Paid" endquery="false" field="status1" goto="false" newquery="false" operator="!=" or="false" value="acc6dac5dbc11010341ea4fdd396197e"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </filter>
         <hint>Completed Orders</hint>
@@ -28,7 +29,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>57098685db811010341ea4fdd39619a6</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>AM Completed Orders</sys_name>
         <sys_overrides/>
         <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
@@ -36,7 +37,7 @@
         <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
         <sys_update_name>sys_app_module_57098685db811010341ea4fdd39619a6</sys_update_name>
         <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
-        <sys_updated_on>2020-05-26 12:55:07</sys_updated_on>
+        <sys_updated_on>2020-05-26 13:46:12</sys_updated_on>
         <timeline_page/>
         <title>AM Completed Orders</title>
         <uncancelable>false</uncancelable>

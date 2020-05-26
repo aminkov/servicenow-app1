@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_responsible_waiter" label="Responsible Waiter" language="en" table="u_imp_tmpl_x_nuvo_amapp_orders">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_responsible_waiter</element>
+            <help/>
+            <hint/>
+            <label>Responsible Waiter</label>
+            <language>en</language>
+            <name>u_imp_tmpl_x_nuvo_amapp_orders</name>
+            <plural>Responsible Waiters</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+            <sys_created_on>2020-05-26 13:37:22</sys_created_on>
+            <sys_id>34055e05dbc11010341ea4fdd39619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Responsible Waiter</sys_name>
+            <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_nuvo_amapp_orders_u_responsible_waiter_en</sys_update_name>
+            <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+            <sys_updated_on>2020-05-26 13:37:22</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="System Import Sets" source="com.glide.system_import_set">19d7af75db030010f320e33648961965</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
+        <sys_created_on>2020-05-26 13:37:22</sys_created_on>
+        <sys_id>8d055e05dbc11010341ea4fdd39619ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
+        <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
+        <sys_updated_on>2020-05-26 13:37:22</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
