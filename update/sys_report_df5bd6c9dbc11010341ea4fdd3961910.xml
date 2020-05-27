@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report">
     <sys_report action="INSERT_OR_UPDATE">
         <additional_groupby/>
-        <aggregate>COUNT</aggregate>
+        <aggregate>SUM</aggregate>
         <allow_data_label_overlap>false</allow_data_label_overlap>
         <axis_max_color display_value="UI14 Blue Light">b0d449b3d7332100fa6c0c12ce610383</axis_max_color>
         <axis_min_color display_value="White">65b303c7a9fe3dba00629aff95ee3597</axis_min_color>
@@ -97,21 +97,21 @@
         <source_type>table</source_type>
         <start_time/>
         <style_config/>
-        <sumfield/>
+        <sumfield>total_price</sumfield>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>Angel.Minkov@nuvolo.com</sys_created_by>
         <sys_created_on>2020-05-26 14:05:07</sys_created_on>
         <sys_id>df5bd6c9dbc11010341ea4fdd3961910</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Sales By Dish</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Sales By Waiter</sys_name>
         <sys_package display_value="AMapp" source="x_nuvo_amapp">d14feb64db051090341ea4fdd39619dc</sys_package>
         <sys_policy/>
         <sys_scope display_value="AMapp">d14feb64db051090341ea4fdd39619dc</sys_scope>
         <sys_update_name>sys_report_df5bd6c9dbc11010341ea4fdd3961910</sys_update_name>
         <sys_updated_by>Angel.Minkov@nuvolo.com</sys_updated_by>
-        <sys_updated_on>2020-05-26 14:05:07</sys_updated_on>
+        <sys_updated_on>2020-05-26 15:03:25</sys_updated_on>
         <table>x_nuvo_amapp_orders</table>
-        <title>Sales By Dish</title>
+        <title>Sales By Waiter</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
